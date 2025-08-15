@@ -1,5 +1,11 @@
 # @read-frog/extension
 
+## 1.3.1
+
+### Patch Changes
+
+- [#335](https://github.com/mengxi-ream/read-frog/pull/335) [`e044745`](https://github.com/mengxi-ream/read-frog/commit/e044745ca4395cc553829f657f846c9171796f0b) Thanks [@ananaBMaster](https://github.com/ananaBMaster)! - fix: try catch readability
+
 ## 1.3.0
 
 ### Minor Changes
